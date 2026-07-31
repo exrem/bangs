@@ -86272,7 +86272,7 @@
       "dewv",
       "wvde"
     ],
-    "u": "de.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://de.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86284,7 +86284,7 @@
       "enwv",
       "wven"
     ],
-    "u": "en.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://en.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86296,7 +86296,7 @@
       "frwv",
       "wvfr"
     ],
-    "u": "fr.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://fr.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86308,7 +86308,7 @@
       "zhwv",
       "wvzh"
     ],
-    "u": "zh.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://zh.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86320,7 +86320,7 @@
       "itwv",
       "wvit"
     ],
-    "u": "it.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://it.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86332,7 +86332,7 @@
       "ptwv",
       "wvpt"
     ],
-    "u": "pt.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://pt.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86344,7 +86344,7 @@
       "cswv",
       "wvcs"
     ],
-    "u": "cs.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://cs.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86356,7 +86356,7 @@
       "ruwv",
       "wvru"
     ],
-    "u": "ru.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://ru.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86368,7 +86368,7 @@
       "eswv",
       "wves"
     ],
-    "u": "es.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://es.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86380,7 +86380,7 @@
       "betawv",
       "wvbeta"
     ],
-    "u": "beta.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://beta.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86392,7 +86392,7 @@
       "slwv",
       "wvsl"
     ],
-    "u": "sl.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://sl.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86404,7 +86404,7 @@
       "arwv",
       "wvar"
     ],
-    "u": "ar.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://ar.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86416,7 +86416,7 @@
       "svwv",
       "wvsv"
     ],
-    "u": "sv.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://sv.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86428,7 +86428,7 @@
       "fiwv",
       "wvfi"
     ],
-    "u": "fi.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://fi.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86440,7 +86440,7 @@
       "elwv",
       "wvel"
     ],
-    "u": "el.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://el.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86452,7 +86452,7 @@
       "hiwv",
       "wvhi"
     ],
-    "u": "hi.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://hi.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86464,7 +86464,7 @@
       "kowv",
       "wvko"
     ],
-    "u": "ko.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://ko.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -86476,7 +86476,7 @@
       "jawv",
       "wvja"
     ],
-    "u": "ja.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "https://ja.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
